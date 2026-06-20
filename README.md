@@ -184,8 +184,6 @@ The full mobile application backend logic, Firebase credentials, API keys, authe
 
 This repository is shared majorly for a technical portfolio demonstration of the embedded system, signal processing, and machine learning pipeline.
 
-This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
-
 ---
 
 ## Authors
@@ -197,8 +195,8 @@ Senior Design Project
 Department of Electrical and Electronics Engineering
 Koç University
 
----
-
 ## License
+
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 This repository is shared for portfolio and demonstration purposes only. See the [`LICENSE`](LICENSE) file for details.
