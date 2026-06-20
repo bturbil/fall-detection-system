@@ -54,7 +54,7 @@ The system consists of three main components:
 3. **Mobile Application**
    The Android application receives BLE packets, displays the user’s current activity state, and sends emergency alerts to a paired caregiver when a verified fall is detected.
 
-![System Summary](docs/images/System Summary.png)
+![System Summary](docs/images/system_summary.png)
 
 ---
 
@@ -70,7 +70,7 @@ The system consists of three main components:
 
 The prototype was designed as a waist-mounted wearable device to improve comfort and capture torso-level motion patterns.
 
-![Hardware Prototype](docs/images/Hardware Design.png)
+![Hardware Prototype](docs/images/hardware_prototype.png)
 
 ---
 
@@ -102,7 +102,7 @@ The system uses a hybrid decision structure:
 
 This design reduces unnecessary computation and improves fall detection reliability.
 
-![Algorithmic Process](docs/images/Software Design.png)
+![Algorithmic Process](docs/images/algorithmic_process.png)
 
 ---
 
@@ -121,7 +121,7 @@ Main functions:
 
 The full mobile application source code and Firebase configuration files are not included in this public repository for privacy and security reasons.
 
-![Mobile App Screenshots](docs/images/Mobile App Screenshots.png)
+![Mobile App Screenshots](docs/images/mobile_app_screenshots.png)
 
 ---
 
@@ -139,33 +139,8 @@ Main results:
 
 These results show that the system met its main design goal of detecting falls and generating caregiver alerts within the required response window.
 
-More details are provided in [`docs/results.md`](docs/Results.md).
+![Results](docs/images/results.png)
 
----
-
-## Repository Structure
-
-```text
-real-time-imu-fall-detection/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── firmware/
-│   └── esp32_fall_detector.ino
-├── ml_pipeline/
-│   └── train_dynamic_fall_model.py
-└── docs/
-    ├── system_overview.md
-    ├── hardware_layout.md
-    ├── results.md
-    └── images/
-        ├── system_summary.png
-        ├── algorithmic_process.png
-        ├── mobile_app_screenshots.png
-        └── hardware_prototype.png
-```
-
----
 
 ## Code Included
 
