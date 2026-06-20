@@ -192,6 +192,7 @@ This repository is mainly shared as a technical portfolio demonstration of the e
 * Okan Yuğaç
 
 Senior Design Project
+
 Department of Electrical and Electronics Engineering
 Koç University
 ## License
