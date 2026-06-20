@@ -1,5 +1,3 @@
-# README.md
-
 # Real-Time IMU-Based Fall Detection and Alert System
 
 This repository contains a portfolio version of our senior design project, **An Integrated Wearable System for Posture, Mobility and Fall Risk Monitoring**.
