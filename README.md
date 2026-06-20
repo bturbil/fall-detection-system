@@ -182,7 +182,9 @@ SisFall_dataset/
 
 The full mobile application backend logic, Firebase credentials, API keys, authentication configuration files, and user-related data are intentionally excluded from this repository.
 
-This repository is shared only as a technical portfolio demonstration of the embedded system, signal processing, and machine learning pipeline.
+This repository is shared majorly for a technical portfolio demonstration of the embedded system, signal processing, and machine learning pipeline.
+
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 ---
 
