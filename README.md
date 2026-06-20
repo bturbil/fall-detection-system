@@ -24,6 +24,8 @@ The system classifies the following mobility and posture states:
 
 The wearable device is placed around the waist to better capture the body's center-of-mass motion using inertial sensor data.
 
+Video Link for Demonstration: https://www.youtube.com/shorts/1kAmYmy3mSA
+
 ---
 
 ## Key Features
